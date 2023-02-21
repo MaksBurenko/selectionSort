@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
-class SelectionSortTest {
+public class SelectionSortTest {
 
     @Test
     public void sort() {
